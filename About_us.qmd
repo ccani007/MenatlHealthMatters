@@ -1,0 +1,56 @@
+---
+title: "About us"
+---
+
+Welcome to our website dedicated to the mental well-being of first responders. We are a team of passionate resarcers committed to raising awareness about the importance of mental health in the lives of those who selflessly serve our communities. Allow us to introduce ourselves:
+
+---
+
+::: columns
+::: {.column width="55%"}
+
+**Dr. Mark Macgowan** is the Associate Dean of Academic Affairs and Associate Professor of Social Work at FIU's Robert Stempel College of Public Health & Social Work. With extensive experience in the field of mental health, Dr. Macgowan is a licensed psychotherapist dedicated to improving the lives of first responders. His expertise in trauma, resilience, and evidence-based practices serves as a foundation for developing resources that address the unique challenges faced by those on the front lines.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+
+![](images/macgowan.png)
+macgowan@fiu.edu
+
+:::
+:::
+
+<br/>
+
+
+::: columns
+::: {.column width="40%"}
+
+![](images/catalina.png)
+ccani007@fiu.edu
+
+:::
+
+::: {.column width="5%"}
+:::
+
+
+::: {.column width="55%"}
+
+**Catalina Canizares** is a PhD Candidate in Social Work at FIU's Robert Stempel College of Public Health & Social Work. Her research interests center around the intersection of mental health, trauma, and resilience, with a particular focus on first responders. Catalina's dedication to enhancing the well-being of this brave community stems from her understanding of the importance of mental health support and advocacy.
+
+::: 
+:::
+
+---
+Together, we have created this platform to provide valuable information, resources, and support for first responders. Our mission is to shed light on the silent battles faced by these heroes, including anxiety, depression, and post-traumatic stress disorder (PTSD). By raising awareness and offering guidance, we aim to empower first responders to prioritize their mental well-being and seek the help they deserve.
+
+
+If you have any questions, suggestions, or would like to get in touch with us, please don't hesitate to reach out. Thank you for visiting our website, and we hope you find it informative and empowering.
+
+Sincerely,
+
+Dr. Mark Macgowan and Catalina Canizares

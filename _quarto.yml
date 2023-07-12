@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Mental Health Matters"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: ptsd.qmd
+        text: PTSD
+      - href: Depression.qmd
+        text: Depression
+      - href: Anxiety.qmd
+        text: Anxiety
+      - href: Resources.qmd
+        text: Resources
+      - href: About_us.qmd
+        text: About us
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
