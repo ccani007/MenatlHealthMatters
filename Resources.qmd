@@ -1,5 +1,16 @@
----
-title: "Resources"
----
-
-This space is reserved for the resources table Dr. Macgowan has.
+| Resource | Contact Information | Additional Information |
+| --- | --- | --- |
+| Local area information and resources | Call 211 or text the hurricane’s name to 898-211 (e.g., “Ian” to 898211). | |
+| Disaster Distress Hotline - SAMHSA | Toll-Free: 1 (800) 985-5990 | |
+| FEMA Helpline | Toll-Free: 1 (800) 621-3362 | 24/7 staffed to assist with anxiety, PTSD, or depression related to the disaster |
+| National Suicide Prevention Lifeline | Call or text 988 | Chat at [www.988lifeline.org](http://www.988lifeline.org); Website: [suicidepreventionlifeline.org](https://suicidepreventionlifeline.org/) |
+| Veteran Crisis Line | Call or text 988 (effective July 16, 2022), select option 1 | Chat at [veteranscrisisline.net](https://www.veteranscrisisline.net/get-help-now/chat/); Website: [veteranscrisisline.net](https://www.veteranscrisisline.net/) |
+| YouthLine | Call 977-968-8491, text “teen2teen” to 839863, email teen2teen@linesforlife.org | Website: [theyouthline.org](http://theyouthline.org) |
+| National Alliance on Mental Illness (NAMI) | Call 800-950-NAMI (6264), email info@nami.org or text "NAMI" to 741741 | NAMI also offers online support groups |
+| National Domestic Violence Hotline | Toll-Free 1-800-799-7233 and TTY 1-800-787-3224 | Text LOVEIS to 22522; Website: [thehotline.org](https://www.thehotline.org/) |
+| National Sexual Assault Hotline | Toll-Free 1-800-656-4673 | Website/chat: [hotline.rainn.org/online](https://hotline.rainn.org/online) |
+| Substance Abuse Hotline | Toll-free: 1-877-959-5113 | Website: [drugabuse.com](https://drugabuse.com/library/drug-abuse-hotlines/#drug-specific-hotlines) |
+| Mental Health Treatment Facility Locator | Toll-Free: 1-800-789-2647 (English and Español) | Website: [findtreatment.samhsa.gov/MHTreatmentLocator](http://findtreatment.samhsa.gov/MHTreatmentLocator) |
+| Substance Abuse Treatment Facility Locator | Toll-Free: 1-800-662-HELP (1-800-662-4357) (24/7 English and Español); TDD: 1-800-487-4889 | Website: [findtreatment.samhsa.gov](http://www.findtreatment.samhsa.gov) |
+| Mobile Apps for Survivors | Mindfulness Coach; Covid Coach; PTSD Coach | |
+| Mobile Apps for Responders | Provider Resilience; SAMHSA Behavioral Health Disaster Response App | |
